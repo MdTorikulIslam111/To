@@ -1,0 +1,4 @@
+<html>
+<body>
+<h1>subdomain takeover by Torikul<h1>
+</body></html>
